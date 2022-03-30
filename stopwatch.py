@@ -52,4 +52,5 @@ reset = tink.Button(base, text='Reset',width=25, state='disabled', command=lambd
 start.pack()
 stop.pack()
 reset.pack()
+
 base.mainloop
